@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CafeManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CafeManagementSystemApplication.class, args);
+		SpringApplication.run(CafeManagementSystemApplication.class , args);
 	}
 
 }
